@@ -237,6 +237,8 @@ Create the development and test databases:
 bin/rake db:setup db:test:prepare
 ```
 
+Run `rake slugs:slugify` to update existing entries in the database with slugs (e.g. `moments/fun-slug`)
+
 Start the local server:
 ```
 rails s
