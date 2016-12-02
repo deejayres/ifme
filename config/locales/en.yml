@@ -38,6 +38,7 @@ en:
  daily_reminder: 'Daily reminder email'
  salutation: "Hi %{name},"
  click_here: "click here"
+ less: " [Less]"
 
  allies:
   index:
